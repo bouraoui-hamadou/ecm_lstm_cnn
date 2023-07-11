@@ -24,7 +24,7 @@ This repository contains the code and data used in the research thesis on Batter
 
 To run the Jupyter notebooks, you need to download and extract the following data archive:
 
-- [Battery Data Archive](https://example.com/data_archive.zip)
+- [Battery Data Archive](https://www.dropbox.com/s/19w21q5mxa44vvj/data.zip?dl=0)
 
 Place the extracted data files in the appropriate directories as specified within the Jupyter notebooks.
 
